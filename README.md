@@ -7,7 +7,6 @@
 
 ## What is this project?
 
-Have you ever shaken a can of beer and watched the foam slowly collapse? Or seen how a pile of sand stays stable until one extra grain causes a small (or huge) slide?
 
 This project simulates that exact kind of behavior using something called the **Bak-Tang-Wiesenfeld (BTW) Sandpile Model**. It is one of the most famous models in physics because it naturally produces a phenomenon called **Self-Organized Criticality (SOC)**, where a system "finds" a critical state all on its own, without any fine-tuning.
 
