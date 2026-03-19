@@ -8,7 +8,7 @@
 ## What is this project?
 
 
-This project simulates that exact kind of behavior using something called the **Bak-Tang-Wiesenfeld (BTW) Sandpile Model**. It is one of the most famous models in physics because it naturally produces a phenomenon called **Self-Organized Criticality (SOC)**, where a system "finds" a critical state all on its own, without any fine-tuning.
+This project is one of the most famous models in physics because it naturally produces a phenomenon called **Self-Organized Criticality (SOC)**, where a system "finds" a critical state all on its own, without any fine-tuning.
 
 The connection to foam is neat: in our model, every cell in a grid holds some "grains" (think of them as local stress in a bubble film). When a cell gets too many grains, it "topples" and passes them to its neighbors. This can trigger a chain reaction, just like how one bubble popping can cause nearby bubbles to pop too.
 
